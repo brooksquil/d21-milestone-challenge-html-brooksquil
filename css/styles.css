@@ -1,1 +1,51 @@
+body{
+	background-color: #FFDA85;
+}
 
+nav {
+	background-color: #698AC1 ;
+	height: 50px;
+
+
+}
+
+nav li {
+	float: left;
+	list-style-type: none;
+	margin: 5px 60px 0 15px;
+	font-family: "Arial", "Helvetica", "Times New Roman";
+    font-size: 100%;
+}
+
+nav li a:hover{
+	color: white;
+}
+
+
+
+
+.wrapper{
+background-color: 698AC1;
+	width: 85%;
+	margin: 0 auto;
+
+}
+
+img#biopic {
+
+
+}
+
+.bio {
+
+
+}
+
+.sidebar{
+
+
+}
+
+.blog {
+
+}
